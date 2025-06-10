@@ -9,6 +9,7 @@
 // @grant        unsafeWindow
 // @grant        GM_setValue
 // @grant        GM_getValue
+// @license      GPL-3.0
 // ==/UserScript==
 
 (function() {
